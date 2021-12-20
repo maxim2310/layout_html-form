@@ -1,13 +1,8 @@
-/* styles go here */
-form {
-  margin: 10px 50px;
+body {
+  margin: 20px 50px;
 }
 
 .field {
-  margin: 20px 0;
-}
-
-.button {
   margin: 20px 0;
 }
 
